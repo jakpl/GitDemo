@@ -29,7 +29,8 @@ _________________________________________________
 
 我最喜欢的环境管理工具是conda
 
-<img src="D:\demo\tupian\屏幕截图 2025-03-07 091118.png" width="800" alt="截图一">
+<img src=https://github.com/jakpl/GitDemo/blob/master/tupian/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-07%20091118.png width="800" alt="截图一">
+
 我可以在IDE上使用我建立的虚拟环境
 
-<img src="D:\demo\tupian\屏幕截图 2025-03-07 093024.png" width="800" alt="截图二">
+<img src=https://github.com/jakpl/GitDemo/blob/master/tupian/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-07%20093024.png width="800" alt="截图二">
